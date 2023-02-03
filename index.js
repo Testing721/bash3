@@ -5,3 +5,6 @@ console.log(a , b);
 let age  = number
  console.log (8)
 
+function abc () {
+    console.log("this is branch1");
+}
