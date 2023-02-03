@@ -8,3 +8,4 @@ let age  = number
 function abc () {
     console.log("this is branch1");
 }
+ abc()
